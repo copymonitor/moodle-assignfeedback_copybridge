@@ -30,3 +30,5 @@ $string['default']='デフォルトで有効にする';
 $string['default_help']='この設定を有効にした場合、すべての新しい課題に関して、このフィードバック方法がデフォルトで有効にされます。';
 $string['enabled']='CopyMonitor Bridgeフィードバック';
 $string['enabled_help']='この設定を有効にした場合、評定者がそれぞれの提出に関して類似度を閲覧できます。';
+
+$string['privacy:assign_copybridge']='盗作プラグインは類似度チェックの結果データのみ提供します。';

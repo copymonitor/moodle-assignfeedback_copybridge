@@ -30,3 +30,5 @@ $string['default']='기본으로 활성화됨';
 $string['default_help']='활성화되면 모든 새로운 과제에 대해 기본적으로 피드백 방법이 활성화 될 것입니다.';
 $string['enabled']='CopyMonitor Bridge 피드백';
 $string['enabled_help']='활성화되면 채점자는 각 제출에 대해 유사도를 볼 수 있습니다.';
+
+$string['privacy:assign_copybridge']='표절플러그인에서는 표절 결과 데이터만을 제공합니다.';

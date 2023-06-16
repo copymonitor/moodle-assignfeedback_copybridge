@@ -24,7 +24,13 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2023013100;
-$plugin->requires  = 2020060900;
+$plugin->version = 2023061500;
+$plugin->release = '1.0.4';
+$plugin->requires = 2020030600;
 $plugin->component = 'assignfeedback_copybridge';
+$plugin->maturity = MATURITY_STABLE;
+$plugin->cron = 0;
 
+$plugin->dependencies = [
+    'plagiarism_copybridge' => 2023061500
+];

@@ -33,6 +33,9 @@ For information about setting up the CopyMonitor Bridge plugin, Please contact t
    * Check ```"Enabled by Default"``` in the Settings menu. <br>
     **For detailed guide documents, please contact the CopyMonitor customer center and we will guide you.**
 
+## Release Note
+You can check the Similarity Feedback Plugin changes at [RELEASE](https://github.com/muhayu/moodle-plugin/blob/CMBridge/moodle/mod/assign/feedback/copybridge/RELEASE.md).
+
 ## Inquiry
 Please feel free to send us any questions you may have. <br>
 Our support staff would be happy to assist you. <br>
